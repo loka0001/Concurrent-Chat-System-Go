@@ -1,4 +1,3 @@
-// Assignment: Concurrent Chat System (Terminal UI)
 
 package main
 
